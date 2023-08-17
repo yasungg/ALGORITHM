@@ -22,6 +22,7 @@ public class Day1AsIThinkFirst {
         System.out.print("숫자열을 입력하세요. : ");
         int Default = sc.nextInt();
 
+
         System.out.print("결과 : " + getSummary(extractedArr(N, Default)));
     }
 
