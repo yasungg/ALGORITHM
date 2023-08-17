@@ -35,6 +35,7 @@ public class Day1_2Studied {
         for(int num : Array) {
             summary += num;
         }
+        
         return summary;
     }
 
