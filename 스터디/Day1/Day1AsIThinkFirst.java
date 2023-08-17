@@ -33,6 +33,7 @@ public class Day1AsIThinkFirst {
             Array.add(Default / (int) Math.pow(10, (N - (i+1))));
             Default = Default % (int) Math.pow(10, (N - (i+1)));
         }
+
         return Array;
     }
 
