@@ -32,10 +32,7 @@ public class Day1Studied {
         System.out.print("결과 : " + summary(N, Default));
         System.out.print("결과 : " + sum);
     }
-
-
-
-
+    
     static int summary(int N, String Default) {
         char[] arr = Default.toCharArray();
         int sum = 0;
