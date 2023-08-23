@@ -19,3 +19,11 @@ R
 ALGORITHM1.iml,e\a\ea50e35785ebb1600064571a6cafdc4b028cdf4b
 O
 스터디/Day1/Day1Studied.java,4\4\449201ca4f45897f685c794d2565993ec4891cdb
+W
+'스터디/Day2/Day2_1AsIThinkFirst.java,9\0\906d34eea1a7e4feef796be8bf8e2df08008f1ee
+P
+ 스터디/Day2/Day2_Studied.java,d\3\d3281483792cb5488613f66fc1d66da5f55574be
+V
+&스터디/Day3/Day3_AsIthinkFirst.java,1\f\1f2945c5fdb19b68bcdf1af3211679d0a3ad1c07
+W
+'스터디/Day3/Day3_2AsIthinkFirst.java,a\b\ab345e16373f1f8f3ff2b02d5c1bbe96317b5226
