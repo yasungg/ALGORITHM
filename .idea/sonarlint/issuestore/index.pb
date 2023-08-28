@@ -29,10 +29,6 @@ W
 '스터디/Day3/Day3_2AsIthinkFirst.java,a\b\ab345e16373f1f8f3ff2b02d5c1bbe96317b5226
 V
 &스터디/Day4/Day4_AsIThinkFirst.java,e\5\e5e9bc4cb71ee99fbd313316ef42bd50b99d142a
-]
--.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
-S
-#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 Q
 !스터디/Day4/Day4_6Studied.java,9\4\9427815a9bd4659c92f5d5cca25135eb6c1ccfbc
 V
@@ -53,3 +49,19 @@ V
 &스터디/Day6/큰수출력하기.java,5\6\56289857d959fc2a82d51695ed406dfcc1928847
 V
 &스터디/Day6/피보나치수열.java,f\d\fddd30d7f5254c471bff7fee2f181e3464578400
+W
+'스터디/Day5/Day5_4AsIThinkFirst.java,7\e\7e689f7c42b076b3eade98ad2898cd6a966a63dc
+S
+#스터디/Day7/등수구하기.java,9\8\9802e0e5159e9870ca7d94067e209870d417dbba
+W
+'스터디/Day5/Day5_5AsIThinkFirst.java,7\3\732d2d259e8452dbdfb54db76a4fcc22b0c76e13
+P
+ 스터디/Day7/점수계산.java,3\4\347a46f87069041d4d27ba772b6c964a6385f23c
+[
++스터디/Day8/두배열합치기/Main.java,a\e\aeae18f0beddb468209b29d5135e6570fedfb4d6
+R
+"스터디/Day7/봉우리/Main.java,4\9\49cb8a2a820e007ea6dc8273e9d6be09301b1690
+[
++스터디/Day7/격자판최대합/Main.java,c\2\c28e8d3629b2de1cfa7973a22b2350a9a014b171
+[
++스터디/Day8/연속부분수열/Main.java,4\1\414ccf1df2f72c85b969ee2cc88a6079c21acf28
